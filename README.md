@@ -114,11 +114,12 @@ F H <BR>
 ['0', '1', '2', '3', '4']
 
 <h3>Output:</h3>
-![Screenshot 2025-03-24 093440](https://github.com/user-attachments/assets/1df7b361-c1bd-4b12-a0de-14d27010c91d)
+![Screenshot 2025-03-24 093440](https://github.com/user-attachments/assets/76f9b487-6cf4-4e05-84a5-1035d287410e)
 
 
-<hr>
+
+
 <h3>Result:</h3>
-<hr>
+
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
 
