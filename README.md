@@ -114,7 +114,9 @@ F H <BR>
 ['0', '1', '2', '3', '4']
 
 <h3>Output:</h3>
-![Screenshot 2025-03-24 093440](https://github.com/user-attachments/assets/76f9b487-6cf4-4e05-84a5-1035d287410e)
+
+![Screenshot 2025-03-24 093440](https://github.com/user-attachments/assets/f494fec7-5fec-40e4-a6a4-3f3eac89e75b)
+
 
 
 
